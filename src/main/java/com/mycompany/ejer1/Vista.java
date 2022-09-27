@@ -47,6 +47,11 @@ public class Vista extends javax.swing.JFrame {
         });
 
         txtHola.setEditable(false);
+        txtHola.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txtHolaActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -89,6 +94,10 @@ public class Vista extends javax.swing.JFrame {
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
         Saludo();
     }//GEN-LAST:event_btnEnviarActionPerformed
+
+    private void txtHolaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtHolaActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txtHolaActionPerformed
 
     /**
      * @param args the command line arguments

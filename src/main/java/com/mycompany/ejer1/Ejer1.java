@@ -9,5 +9,6 @@ public class Ejer1 {
     public static void main(String[] args) {
         Vista ver = new Vista();
         ver.setVisible(true);
+        
     }
 }
