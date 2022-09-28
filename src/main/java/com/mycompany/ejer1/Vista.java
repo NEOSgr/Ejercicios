@@ -18,7 +18,7 @@ public class Vista extends javax.swing.JFrame {
     }
     
     public void Saludo(){
-        txtHola.setText("Hola Mundo");
+        txtHola.setText("Hola ESTO YA QUEDOOOO :)");
 }
 
     /**
