@@ -11,5 +11,6 @@ public class Ejer1 {
         ver.setVisible(true);
         System.out.println("HOLA");
         System.out.println("HOLA SOY NEOS");
+        System.out.println("HOLA NEOS");
     }
 }
