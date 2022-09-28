@@ -9,10 +9,5 @@ public class Ejer1 {
     public static void main(String[] args) {
         Vista ver = new Vista();
         ver.setVisible(true);
-        System.out.println("HOLA");
-        System.out.println("HOLA SOY NEOS");
-        System.out.println("HOLA NEOS");
-        System.out.println("YA QUEDO");
-        System.out.println("ESOOOOOO");
     }
 }
