@@ -10,5 +10,6 @@ public class Ejer1 {
         Vista ver = new Vista();
         ver.setVisible(true);
         System.out.println("HOLA");
+        System.out.println("HOLA SOY NEOS");
     }
 }
