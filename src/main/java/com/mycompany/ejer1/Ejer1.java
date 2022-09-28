@@ -12,5 +12,6 @@ public class Ejer1 {
         System.out.println("HOLA");
         System.out.println("HOLA SOY NEOS");
         System.out.println("HOLA NEOS");
+        System.out.println("YA QUEDO");
     }
 }
